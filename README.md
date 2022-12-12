@@ -9,7 +9,7 @@ This is a web based application developed for health related based website in in
 
 **Project Link** - https://abhanu44.github.io/FUTURE-READY-TALENT-PROJECT/
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/tHlm18oiSpU
 
 ## Azure technologies used for Project
 
